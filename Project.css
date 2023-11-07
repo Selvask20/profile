@@ -1,0 +1,94 @@
+    #projects{
+        margin-left: 70px;
+        padding-top: 10px;
+    }
+    #projects00{
+        background-image: url('../../image/images.jpg') ;
+        height: 880px;
+        /* height: 200vh; */
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        box-shadow: inset 6 3 8 0 2000px rgb(17, 17, 17);
+        
+
+    } 
+  
+    h2{
+        color: white;
+        margin-top: 30px;
+        margin-left: 140px;
+    }
+   
+    #newas{
+        background-image: url('../../image/Screenshot\ \(62\).png');
+        width: 100vh;
+        height: 50px;
+        padding: 60px;
+        color: antiquewhite;
+        background-repeat: no-repeat;
+        margin-top: 40px;
+        margin-left: 40px; 
+    } 
+
+    #ex{
+        background-image: url('../../image/Screenshot\ \(63\).png');
+        width: 100vh;
+        height: 160px;
+        color: antiquewhite;
+        background-repeat: no-repeat;
+        margin-top: 40px;
+        margin-left: 40px; 
+    }
+
+    #expense1{
+        box-shadow: 0 0 15px rgb(255, 166, 0) ,
+        0 0 12px rgb(196, 124, 16);
+        width: 800px;
+        background-color: rgb(54, 54, 53);   
+        height: 250px;
+       
+        /* margin-left: 40px;  */
+
+    }
+    #expense1:hover{
+        box-shadow: 0 0 5px cyan,
+        0 0 5px cyan, 0 0 5px cyan,
+        0 0 10px cyan,0 0 20px cyan;
+        width: 800px;
+        height: 250px;
+
+    } 
+    #but{
+        box-shadow: 0 0 15px  cyan ,
+        0 0 21px  cyan;
+        width: 80px;
+        background-color: rgb(54, 54, 53);   
+        height: 30px;
+    }
+    #but:hover{
+        box-shadow: 0 0 5px rgb(255, 166, 0),
+        0 0 5px rgb(196, 124, 16), 0 0 15px rgb(255, 166, 0),
+        0 0 10px rgb(196, 124, 16),0 0 20px cyan;
+        width: 90px; 
+         height: 50px; 
+
+    } 
+    #todo{
+        background-image: url('../../image/todo.jpg');
+        width: 100vh;
+        height: 160px;
+        color: antiquewhite;
+        background-repeat: no-repeat;
+        margin-top: 40px;
+        margin-left: 40px; 
+
+    }
+    /* .clo{
+        transform: translateX(120%);
+
+    }  .clo1{
+    transform: translateY(-40%);
+} */
+  
+

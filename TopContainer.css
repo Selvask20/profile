@@ -1,0 +1,12 @@
+.topcontainer{
+    background-image: url("../../image/ok.jpg");
+    
+    height: 700px;
+    /* height: 200vh; */
+    background-position: center;
+    background-size: cover;
+    /* width: 100vh; */
+    /* padding: 100px; */
+    background-repeat: no-repeat;
+    box-shadow: inset 6 3 8 0 2000px rgb(199, 80, 80);
+}
